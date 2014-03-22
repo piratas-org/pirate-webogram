@@ -454,7 +454,7 @@ input[type="number"]::-webkit-inner-spin-button {
   font-size: 11px;
   text-align: center;
   color: #9cacb9;
-  line-height: 40px;
+  padding: 10px;
 }
 .im_page_footer_brand {
   color: #9cacb9;
