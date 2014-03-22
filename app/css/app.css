@@ -1,7 +1,7 @@
 /* app css stylesheet */
 
 html {
-  background: #dee4e9 url(../img/bg_tile.png?1) 0 0 repeat;
+  background: #dee4e9 url(../img/bg_pirates_cp.png) 0 0 repeat;
   /*background-size: 300px 468px;*/
 }
 body {
@@ -197,17 +197,17 @@ input[type="number"]::-webkit-inner-spin-button {
   background-image: url(../img/TLogo_1x.png);
 }
 .tg_head_logo_text {
-  background: url(../img/TLogo2_2x.png) 0 0 no-repeat;
-  background-size: 97px 15px;
+  background: url(../img/logo_pirates_head.png) 0 0 no-repeat;
+  background-size: 150px 15px;
   display: inline-block;
-  width: 97px;
+  width: 150px;
   height: 15px;
   vertical-align: text-top;
   margin-top: 7px;
   margin-left: 10px;
 }
 .is_1x .tg_head_logo_text {
-  background-image: url(../img/TLogo2_1x.png);
+  background-image: url(../img/logo_pirates_head.png);
 }
 
 
